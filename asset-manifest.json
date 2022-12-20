@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/carajo-que-frio/static/css/main.c36eac82.css",
+    "main.js": "/carajo-que-frio/static/js/main.373e8a4f.js",
+    "static/js/787.34f933df.chunk.js": "/carajo-que-frio/static/js/787.34f933df.chunk.js",
+    "static/media/remixicon.svg?t=1562401252720": "/carajo-que-frio/static/media/remixicon.1ed03c9be6671faf8ab9.svg",
+    "static/media/remixicon.eot?t=1562401252720": "/carajo-que-frio/static/media/remixicon.44557f0ff269b4931305.eot",
+    "static/media/remixicon.ttf?t=1562401252720": "/carajo-que-frio/static/media/remixicon.ee7e400ca10f4d238535.ttf",
+    "static/media/h_cloud-sun.png": "/carajo-que-frio/static/media/h_cloud-sun.2bbe531fbc5069b046fe.png",
+    "static/media/ERR.png": "/carajo-que-frio/static/media/ERR.cd87ccb2005b62763787.png",
+    "static/media/h_sun.png": "/carajo-que-frio/static/media/h_sun.d556e2de99490e3ec7eb.png",
+    "static/media/remixicon.woff?t=1562401252720": "/carajo-que-frio/static/media/remixicon.7061fd6b15c83d659945.woff",
+    "static/media/not_city.png": "/carajo-que-frio/static/media/not_city.b27b2c0677c6bb6e1373.png",
+    "static/media/remixicon.woff2?t=1562401252720": "/carajo-que-frio/static/media/remixicon.6a9a1dae79db4bde812d.woff2",
+    "static/media/h_moon.png": "/carajo-que-frio/static/media/h_moon.39c792cb822614b86a53.png",
+    "static/media/h_rain.png": "/carajo-que-frio/static/media/h_rain.7971c6aba372a4e0d659.png",
+    "static/media/loading.gif": "/carajo-que-frio/static/media/loading.7f9ac46941905690ad0e.gif",
+    "static/media/h_snow.png": "/carajo-que-frio/static/media/h_snow.056223ada4bad0b9bf4c.png",
+    "static/media/h_storm.png": "/carajo-que-frio/static/media/h_storm.5d5b985855c92a09ce91.png",
+    "static/media/h_fog.png": "/carajo-que-frio/static/media/h_fog.254a45de83d69d2ad155.png",
+    "index.html": "/carajo-que-frio/index.html",
+    "main.c36eac82.css.map": "/carajo-que-frio/static/css/main.c36eac82.css.map",
+    "main.373e8a4f.js.map": "/carajo-que-frio/static/js/main.373e8a4f.js.map",
+    "787.34f933df.chunk.js.map": "/carajo-que-frio/static/js/787.34f933df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36eac82.css",
+    "static/js/main.373e8a4f.js"
+  ]
+}
