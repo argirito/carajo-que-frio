@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/carajo-que-frio/static/css/main.ba1cd6c7.css",
-    "main.js": "/carajo-que-frio/static/js/main.1c1c8684.js",
+    "main.css": "/carajo-que-frio/static/css/main.c6e38028.css",
+    "main.js": "/carajo-que-frio/static/js/main.477d938f.js",
     "static/js/787.0b82052e.chunk.js": "/carajo-que-frio/static/js/787.0b82052e.chunk.js",
     "static/media/remixicon.svg?t=1562401252720": "/carajo-que-frio/static/media/remixicon.1ed03c9be6671faf8ab9.svg",
     "static/media/remixicon.eot?t=1562401252720": "/carajo-que-frio/static/media/remixicon.44557f0ff269b4931305.eot",
@@ -19,12 +19,12 @@
     "static/media/h_storm.png": "/carajo-que-frio/static/media/h_storm.5d5b985855c92a09ce91.png",
     "static/media/h_fog.png": "/carajo-que-frio/static/media/h_fog.254a45de83d69d2ad155.png",
     "index.html": "/carajo-que-frio/index.html",
-    "main.ba1cd6c7.css.map": "/carajo-que-frio/static/css/main.ba1cd6c7.css.map",
-    "main.1c1c8684.js.map": "/carajo-que-frio/static/js/main.1c1c8684.js.map",
+    "main.c6e38028.css.map": "/carajo-que-frio/static/css/main.c6e38028.css.map",
+    "main.477d938f.js.map": "/carajo-que-frio/static/js/main.477d938f.js.map",
     "787.0b82052e.chunk.js.map": "/carajo-que-frio/static/js/787.0b82052e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba1cd6c7.css",
-    "static/js/main.1c1c8684.js"
+    "static/css/main.c6e38028.css",
+    "static/js/main.477d938f.js"
   ]
 }
